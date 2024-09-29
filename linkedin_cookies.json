@@ -1,0 +1,13 @@
+{
+    "domain": ".www.linkedin.com",
+    "expirationDate": 1759135813.4164,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "li_at",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "AQEDAUAcZvwA8NsCAAABkMBAVlsAAAGSYQWpoVYAdy6zlm7Qh38ZhCpee-wHLyjR8RNcSA1h3QGl_5ecqOnvOVaUUYeemhUefeluVt48TNiP9jaNx0vs-_S_nEPTgk3f6vsDnU2jS935-XebKM_nE-Zc"
+}
